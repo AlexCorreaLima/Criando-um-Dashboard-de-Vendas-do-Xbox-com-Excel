@@ -6,7 +6,7 @@ Este projeto foi desenvolvido como parte do bootcamp **"Heineken - Inteligência
 ## 🛠 Tecnologias e Ferramentas Utilizadas
 
 - **MySQL** para armazenamento e consulta de dados
-- **Excel / Power BI** para análise e visualização
+- **Excel** para análise e visualização
 - **Análise de Dados** para interpretação e tomada de decisão
 
 ## 📌 Descrição do Desafio
