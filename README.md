@@ -33,9 +33,8 @@ O projeto foi estruturado para incluir:
 ```
 /
 |-- data/                      # Conjunto de dados utilizados
-|-- images/                    # Capturas de tela do dashboard
-|-- base.xlsx                  # Base de dados utilizada
-|-- dashboard_xbox_finalizado.xlsx  # Arquivo final do dashboard
+         |-- base.xlsx                  # Base de dados utilizada
+         |-- dashboard_xbox_finalizado.xlsx  # Arquivo final do dashboard
 |-- README.md                  # Documentação do projeto
 ```
 
